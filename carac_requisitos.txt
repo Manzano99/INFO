@@ -1,0 +1,6 @@
+Características de los requisitos:
+	Identificables: Mediante la asignación de un identificados único.
+	Singulares: Especificando únicamente una idea o propiedad del sistema.
+	Inequívocos: No expresan ambigüedades.
+	Trazables: Se debe poder identificar qué productos se obtienen a partir de un determinado requisito.
+	Verificables: Deben poder comprobarse (de una manera específica) que el software satisface el requisito.
