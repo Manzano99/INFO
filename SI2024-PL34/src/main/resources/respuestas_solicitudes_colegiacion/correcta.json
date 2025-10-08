@@ -1,0 +1,55 @@
+{
+  "solicitudes": [
+    {
+      "DNI": "33333333E",
+      "fechaSolicitud": "2023-01-15",
+      "listaTitulaciones": [
+        {
+          "titulacion": "Ingeniero en informática"
+        }
+      ]
+    },
+    {
+      "DNI": "71779257D",
+      "fechaSolicitud": "2023-05-15",
+      "listaTitulaciones": [
+        {
+          "titulacion": "Licenciatura en Derecho"
+        },
+        {
+          "titulacion": "Ingeniero en Industriales"
+        },
+        {
+          "titulacion": "Ingeniero en Sistemas"
+        }
+      ]
+    },
+    {
+      "DNI": "71779257B",
+      "fechaSolicitud": "2023-03-15",
+      "listaTitulaciones": [
+        {
+          "titulacion": "Máster en Ingeniería Informática"
+        }
+      ]
+    },
+    {
+      "DNI": "71779257C",
+      "fechaSolicitud": "2023-04-15",
+      "listaTitulaciones": [
+        {
+          "titulacion": "Licenciatura en Informática"
+        }
+      ]
+    },
+    {
+      "DNI": "71779257A",
+      "fechaSolicitud": "2023-02-15",
+      "listaTitulaciones": [
+        {
+          "titulacion": "Ingeniero en informática"
+        }
+      ]
+    }
+  ]
+}
