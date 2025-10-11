@@ -1,0 +1,35 @@
+{
+  "idCurso": 1,
+  "transferencias": [
+    {
+      "dni": "12345678A",
+      "nombre": "Colegiado_inicial_prueba",
+      "fechaPago": "2025-03-02",
+      "cantidadPagada": 100.0
+    },
+    {
+      "dni": "87654321B",
+      "nombre": "Pre-colegiado_inicial prueba",
+      "fechaPago": "2025-03-05",
+      "cantidadPagada": 120.0
+    },
+    {
+      "dni": "11111111C",
+      "nombre": "Perito_inicial prueba",
+      "fechaPago": "2025-03-03",
+      "cantidadPagada": 250.0
+    },
+    {
+      "dni": "11111111A",
+      "nombre": "Perito1",
+      "fechaPago": "2025-03-06",
+      "cantidadPagada": 200.0
+    },
+    {
+      "dni": "11111222A",
+      "nombre": "Perito2",
+      "fechaPago": "2025-03-02",
+      "cantidadPagada": 200.0
+    }
+  ]
+}
