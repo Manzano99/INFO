@@ -1,0 +1,17 @@
+{
+  "idCurso": 1,
+  "transferencias": [
+    {
+      "dni": "99999999Z",
+      "nombre": "Lucía",
+      "fechaPago": "2025-03-01",
+      "cantidadPagada": 1000.0
+    },
+    {
+      "dni": "88888888Y",
+      "nombre": "Pedro",
+      "fechaPago": "2025-03-02",
+      "cantidadPagada": 1200.0
+    }
+  ]
+}
