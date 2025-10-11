@@ -1,0 +1,29 @@
+{
+  "idCurso": 6,
+  "transferencias": [
+    {
+      "dni": "77777777F",
+      "nombre": "Sofía",
+      "fechaPago": "2025-04-02",
+      "cantidadPagada": 1200.0
+    },
+    {
+      "dni": "99999999H",
+      "nombre": "Laura",
+      "fechaPago": "2025-04-06",
+      "cantidadPagada": 1300.0
+    },
+    {
+      "dni": "00000000I",
+      "nombre": "Mario",
+      "fechaPago": "2025-04-04",
+      "cantidadPagada": 1000.0
+    },
+    {
+      "dni": "22223333K",
+      "nombre": "Andrés",
+      "fechaPago": "2025-04-05",
+      "cantidadPagada": 1400.0
+    }
+  ]
+}
